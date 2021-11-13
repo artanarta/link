@@ -1,0 +1,13 @@
+.text {
+    display: flex;
+    margin-left: 76px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.createLink{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    font-weight: 500;
+}

@@ -1,0 +1,45 @@
+.profile {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+    font-size: 30px;
+  }
+  
+  .text {
+    display: flex;
+    margin-left: 76px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "Times New Roman", Times, serif;
+}
+  
+  .textWrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+  
+  .upperText {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    font-family: Avenir;
+  }
+  
+  .lowerText {
+    font-size: 14px;
+    margin-bottom: 0px;
+    color: #929292;
+    font-family: Avenir;
+  }
+
+
+.buttonSaveAccount{
+  color: #ffffff;
+  background: #FF9F00;
+  border-radius: 5px;
+  margin-top: 10px;
+  }
+ 
